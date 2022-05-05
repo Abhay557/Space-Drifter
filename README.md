@@ -26,6 +26,7 @@ Check Out These links:
 * [Join a Discord server](https://discord.gg/5V68EK8AeS)
 * [Contact The Author](https://github.com/Abhay557)
 * [Github Repo](https://github.com/Abhay557/Space-Drifter)
+* [itch.io](https://abhay557.itch.io/space-drifter)
 
 ### License
 This Game v1.0 Is Released Under The Boost Software License.
