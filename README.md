@@ -16,6 +16,8 @@ Space Drifter! An Game Of Space Which Follows The Physics Fundamentals!
  | Basic Controlls |
 |:------------:|
  |<kbd>W</kbd> <kbd>A</kbd> <kbd>S</kbd> <kbd>D</kbd> Or <kbd>↑</kbd> <kbd>←</kbd> <kbd>↓</kbd> <kbd>→</kbd> |
+| <kbd>Space</kbd> Or <kbd>Click</kbd> To Fire|
+|<kbd>P</kbd> Pause |
 
 ## Community
 Do You Have A Question, Feature Request Or Something Else On Your Mind?
